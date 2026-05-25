@@ -1,15 +1,15 @@
 {
-  "name": "thomyorke",
+  "name": "xyz-commits",
   "version": "1.0.0",
-  "description": "nice dream",
+  "description": "generate fake commits to github",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "cid-kageno-dev",
+  "license": "MIT",
   "dependencies": {
     "jsonfile": "^6.1.0",
     "moment": "^2.30.1",
