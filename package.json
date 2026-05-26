@@ -1,5 +1,5 @@
 {
-  "name": "xyz-commits",
+  "name": "Go-Green",
   "version": "1.0.0",
   "description": "generate fake commits to github",
   "main": "index.js",
